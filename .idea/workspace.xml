@@ -11,12 +11,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92ebdb9f-5a4e-4caa-aeb9-dec3a572ec22" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bin/compiler/tokenizer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/module-info.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/compiler/.metadata/ParserRuleContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/compiler/parser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/compiler/tokenizer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/compiler/.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/src/compiler/.metadata/.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/compiler/.metadata/.plugins/org.eclipse.core.resources/.root/1.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/compiler/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/src/compiler/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/compiler/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/src/compiler/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/compiler/.metadata/version.ini" beforeDir="false" afterPath="$PROJECT_DIR$/src/compiler/.metadata/version.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/compiler/tokenizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/compiler/tokenizer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +57,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="772" y="256" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1674515315623">

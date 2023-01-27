@@ -6,8 +6,8 @@ public class tokenizer {
 	  private final String code;
 	  private final int codeLength;
 	  private int currentIndex;
-	  private Token currentToken; 
-	  private Token previousToken;
+	  private Token currentToken = null;
+	  private Token previousToken = null;
 	  public Lexer(String code) {
 	    this.code = code;
 	    this.currentIndex = 0;
@@ -39,9 +39,8 @@ public class tokenizer {
 		  }else{
 			  throw new LexerException("Token not defined.");
 		  }
-		  return true
 	  }
-	  return false;
+	  return true;
 	  }
 	  private String readNumber() {
 		  StringBuilder sb = new StringBuilder(); 
